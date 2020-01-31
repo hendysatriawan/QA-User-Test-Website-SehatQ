@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register</name>
+   <tag></tag>
+   <comment>Story: Register User Baru
+create data dummy (pakai faker)
+Buka browser &amp; go to url
+cek berhasil open browser
+masuk ke halaman login
+cek halaman login
+create data dummy (pakai faker)</comment>
+   <testCaseGuid>2371a612-31a1-4488-bcd0-64600110e7b7</testCaseGuid>
+</TestCaseEntity>

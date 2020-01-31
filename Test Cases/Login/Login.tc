@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment>Story: Login dengan User yang sudah terdaftar
+Buka browser &amp; go to url
+cek berhasil open browser
+masuk ke halaman login
+cek halaman login
+input email &amp; password lalu klik continue
+berhasil login &amp; lengkapi data profile</comment>
+   <testCaseGuid>b72d531f-6d84-4e59-b78f-031073e2a2d3</testCaseGuid>
+</TestCaseEntity>

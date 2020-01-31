@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf4b4908-d13e-4672-a22b-5e65b8bdf620</testCaseGuid>
+   <variable>
+      <defaultValue>'160'</defaultValue>
+      <description></description>
+      <id>13a0179f-7da6-4ac9-af6a-784c7f49e607</id>
+      <masked>false</masked>
+      <name>tinggi_badan</name>
+   </variable>
+   <variable>
+      <defaultValue>'50'</defaultValue>
+      <description></description>
+      <id>2e5581d2-932b-45c0-94ac-020586a39c40</id>
+      <masked>false</masked>
+      <name>berat_badan</name>
+   </variable>
+   <variable>
+      <defaultValue>'jl. burung nuri blok A no. 112 '</defaultValue>
+      <description></description>
+      <id>492bc696-f0d5-4e1c-a298-ac50a0c82dab</id>
+      <masked>false</masked>
+      <name>alamat</name>
+   </variable>
+   <variable>
+      <defaultValue>'0812676763633'</defaultValue>
+      <description></description>
+      <id>5539b9b5-8058-46ef-a3f9-ec0f49b87552</id>
+      <masked>false</masked>
+      <name>no_telp</name>
+   </variable>
+</TestCaseEntity>
